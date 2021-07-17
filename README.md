@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# [Live preview](https://yashitanamdeo.github.io/face-landmark-detection/)
+# [Live preview](https://shashwatbangar.github.io/face-landmark-detection/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
